@@ -16,10 +16,10 @@ $ npm init
 
 Then fill in whatever parameters you want (default is fine for all of them).
 
-The following will get the placeholder backend in place. See `db.json` for the fake database.
+Install the node modules and start the fake api up:
 
 ```
-$ npm install -s json-server
+$ npm install
 $ node api
 ```
 
