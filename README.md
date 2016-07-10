@@ -1,6 +1,7 @@
 Forked from [tristanpendergrass/elm-seed](https://github.com/tristanpendergrass/elm-seed).
 
-This is a elm project that simply displays "Hello" but has the file structure and elm skeleton to be a real app.
+This is a elm project that fetches a player by id via json and, if found, displays the name.
+It has the file structure and elm skeleton to be a real app.
 
 It is designed to work for elm version **0.17.x**.
 
