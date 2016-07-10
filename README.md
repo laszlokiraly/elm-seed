@@ -1,3 +1,5 @@
+Forked from [tristanpendergrass/elm-seed](https://github.com/tristanpendergrass/elm-seed).
+
 This is a elm project that simply displays "Hello" but has the file structure and elm skeleton to be a real app.
 
 It is designed to work for elm version **0.17.x**.
