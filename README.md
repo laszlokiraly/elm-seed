@@ -34,4 +34,4 @@ And set the webpack server to serve the HTML, JS and CSS with:
 $ npm run dev
 ```
 
-If all went well, the "Hello" message should be viewable at `localhost:3000`.
+If all went well, you should be able to fetch a player's name by id via json at `localhost:3000`.
